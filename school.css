@@ -1,0 +1,53 @@
+body{
+	width:60%;
+	margin:auto;
+}
+
+h1,h2{
+	height:10px;	
+}
+#logo{
+float: center}
+
+#mainmenu{
+	text-align:center;
+	background-color:red;
+	padding:20px;
+	color:white;
+	font-weight:bold;
+}
+#latestnews{
+	width:45%;
+	height:100px;
+	float:left;
+	
+}
+#aboutus{
+	width:50%;
+	height:100px;
+	float:right;
+	
+}
+#image{
+width=100%
+}
+#lathead{
+ background-color:pink;
+ color:white;
+ padding 10px;
+}
+#abhead{
+background-color:green;
+color:white;
+padding:10px;
+}
+#marqueestyle{
+	background-color:stateyellow;
+	padding:10px;
+	height:100px;
+}
+#aboutusdesc{
+background-color:state blue;
+padding:10px;
+text-align: justify;
+}
